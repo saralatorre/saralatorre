@@ -1,8 +1,10 @@
-- 🤙🏽 Aloha, I’m @saralatorre
-- 🌿 I’m interested in building systems that grow revenue & 'āina
-- 🧠 I’m currently learning prompt engineering
-- 🍄 I’m looking to collaborate on anything that solves hard problems
-- ✨ How to reach me hi@saralatorre.com
+Aloha, I’m Sara 🤙🏽
+
+🌿 I build systems that grow revenue & 'āina
+🍄 I love working on anything that solves hard problems
+✨ Reach me hi@saralatorre.com 
+
+Let's connect on Linkedin: linkedin.com/in/phillipssara/
 
 <!---
 saralatorre/saralatorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
