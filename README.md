@@ -4,7 +4,7 @@ Aloha, I’m Sara 🤙🏽
 🍄 I love working on anything that solves hard problems
 ✨ Reach me hi@saralatorre.com 
 
-Let's connect on Linkedin: linkedin.com/in/phillipssara/
+Let's connect on [Linkedin](https://www.linkedin.com/in/phillipssara/)
 
 <!---
 saralatorre/saralatorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
