@@ -1,7 +1,7 @@
 - 🤙🏽 Aloha, I’m @saralatorre
 - 🌿 I’m interested in building systems that grow revenue & 'āina
 - 🧠 I’m currently learning prompt engineering
-- 🍄 I’m looking to collaborate on anything interesting!
+- 🍄 I’m looking to collaborate on anything that solves hard problems
 - ✨ How to reach me hi@saralatorre.com
 
 <!---
