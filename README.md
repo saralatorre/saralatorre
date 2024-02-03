@@ -1,7 +1,7 @@
 Aloha, I’m Sara 🤙🏽
 
 - I build systems that grow revenue & 'āina 🌿
-- I love working on anything that solves hard problems 🍄
+- I love working on solving hard problems 🍄
 - Reach me at hi@saralatorre.com 💌
 
 Let's connect on [Linkedin](https://www.linkedin.com/in/phillipssara/)!✨
